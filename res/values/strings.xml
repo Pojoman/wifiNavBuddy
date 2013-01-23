@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">WifiNavBuddy</string>
+    <string name="noData">noData</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_scan_view">ScanView</string>
+    <string name="Button">Scan</string>
+    <string name="dataText">nodata</string>
+
+</resources>
