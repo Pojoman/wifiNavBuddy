@@ -12,6 +12,7 @@
         android:text="@string/Button" />
 
     <TextView
+        android:id="@+id/dataText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/button1"
