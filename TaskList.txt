@@ -1,0 +1,15 @@
+1) scan for wifi by clicking button
+	-maybe Wifimanager 
+	-could be a better answer
+2) scan for wifi every 5 seconds
+3) display results
+4) add results into a mySQLlite DB
+5) request data from mySQLlite DB
+6) break into separate objects
+7) communicate between separate objects with intents
+8) Nav interface
+9) Nav backend 
+10) Log Path interface
+11) Log Path backend
+12) Path Selection interface
+13) Path Selection Interface
